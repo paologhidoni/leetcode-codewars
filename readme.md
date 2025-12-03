@@ -16,3 +16,5 @@ Check out my [Codewars account here 👊🏻🤝🔥](https://www.codewars.com/u
 A collection of algorithms and problems I was presented with in interviews.
 
 
+![training](banner.png)
+
